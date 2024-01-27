@@ -6,6 +6,9 @@ export default {
     extend: {
       backgroundImage:{
         'banner': "url('@/assets/images/home_page/banner.svg')"
+      },
+      fontFamily:{
+        'primary': ['Georama']
       }
     },
   },

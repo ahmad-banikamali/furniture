@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import Banner from "@/components/home_page/banner.vue";
+import HomeHero from "@/components/home_page/Home-Hero.vue";
 </script>
 
 <template>
-  <banner></banner>
+  <home-hero></home-hero>
 </template>
